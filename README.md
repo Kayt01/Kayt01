@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kayt01
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning javascript and react programming languages
+- 💞️ I’m looking to collaborate on building dynamic front-end pages
 - 📫 How to reach me kaytokechukwu@gmail.com
 
 <!---
